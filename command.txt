@@ -1,0 +1,50 @@
+    1  
+    2  lsb_release -a
+    3  sudo apt update
+    4  clear
+    5  git config --global user.name "Brie Liddick"
+    6  git config --global user.email "bricy18@gmail.com"
+    7  git config --global color.ui auto
+    8  pwd
+    9  ll
+   10  mkdir ITP270
+   11  LS
+   12  ls
+   13  cd IPT270
+   14  cd ITP270
+   15  CLEAR
+   16  clear
+   17  nano ITP270.py
+   18  python ITP270.py
+   19  nano ITP270.py
+   20  git init
+   21  clear
+   22  ls
+   23  cs ..
+   24  cd ..
+   25  git clone ^[[200~https://github.com/Bricy18/ITP270-Brie.git~
+   26  git clone https://github.com/Bricy18/ITP270-Brie.git~
+   27  git clone https://github.com/Bricy18/ITP270-Brie.git
+   28  cd IPT270
+   29  cd ITP270
+   30  help cp
+   31  man cp
+   32  clear
+   33  ls
+   34  cp ITP270.py ~/ITP270-Brie
+   35  clear
+   36  ls
+   37  cd ..
+   38  ls
+   39  cd ITP270-Brie
+   40  ls
+   41  git status
+   42  clear
+   43  git add -A
+   44  git status
+   45  git commit m "Adding the file ITP270.py"
+   46  git commit -m "Adding the file ITP270.py"
+   47  git status
+   48  clear
+   49  git push
+   50  history
