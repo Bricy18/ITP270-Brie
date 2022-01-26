@@ -1,0 +1,166 @@
+    1  
+    2  lsb_release -a
+    3  sudo apt update
+    4  clear
+    5  git config --global user.name "Brie Liddick"
+    6  git config --global user.email "bricy18@gmail.com"
+    7  git config --global color.ui auto
+    8  pwd
+    9  ll
+   10  mkdir ITP270
+   11  LS
+   12  ls
+   13  cd IPT270
+   14  cd ITP270
+   15  CLEAR
+   16  clear
+   17  nano ITP270.py
+   18  python ITP270.py
+   19  nano ITP270.py
+   20  git init
+   21  clear
+   22  ls
+   23  cs ..
+   24  cd ..
+   25  git clone ^[[200~https://github.com/Bricy18/ITP270-Brie.git~
+   26  git clone https://github.com/Bricy18/ITP270-Brie.git~
+   27  git clone https://github.com/Bricy18/ITP270-Brie.git
+   28  cd IPT270
+   29  cd ITP270
+   30  help cp
+   31  man cp
+   32  clear
+   33  ls
+   34  cp ITP270.py ~/ITP270-Brie
+   35  clear
+   36  ls
+   37  cd ..
+   38  ls
+   39  cd ITP270-Brie
+   40  ls
+   41  git status
+   42  clear
+   43  git add -A
+   44  git status
+   45  git commit m "Adding the file ITP270.py"
+   46  git commit -m "Adding the file ITP270.py"
+   47  git status
+   48  clear
+   49  git push
+   50  history
+   51  history > command.txt
+   52  clear
+   53  python3 ITP270.py
+   54  clear
+   55  cd..
+   56  cd ..
+   57  ls
+   58  clear
+   59  cd ITP270-Brie
+   60  LS
+   61  ls
+   62  nano Lecture3.txt
+   63  clear
+   64  git st
+   65  clear
+   66  git status
+   67  git add -A
+   68  git status
+   69  git commit -m "Adding the Lecture3 file with folder structure"
+   70  git push
+   71  clear
+   72  cd ..
+   73  clear
+   74  pwd
+   75  clear
+   76  mkdir Movies
+   77  cd Movies
+   78  mkdir Action
+   79  mkdir Comedy
+   80  mkdir Drama
+   81  ls
+   82  clear
+   83  touch genres.txt
+   84  ls
+   85  cd Action
+   86  mkdir scifi
+   87  cd scifi
+   88  touch terminator.txt
+   89  ls
+   90  pwd
+   91  clear
+   92  cd ..
+   93  pwd
+   94  mkdir superhero
+   95  touch batman.txt
+   96  touch matrix-reloaded.txt
+   97  touch matrix-revolutions.txt
+   98  touch matrix.txt
+   99  touch superman.txt
+  100  touch wonderwoman.txt
+  101  ls
+  102  cd ..
+  103  cd Comedy
+  104  mkdir slaptick
+  105  mkdir satire
+  106  touch the-office.txt
+  107  ls
+  108  cd ..
+  109  cd slaptick
+  110  cd Movies
+  111  cd Comedy
+  112  ls
+  113  cd slaptick
+  114  touch waterboy.txt
+  115  touch zoolander.txt
+  116  cd ..satire
+  117  cd satire
+  118  cd ..
+  119  cd sati
+  120  cd satire
+  121  touch fighclub.txt
+  122  cd ..
+  123  cd Drama
+  124  mkdir biopic
+  125  cd biopic
+  126  touch cleopatra.txt
+  127  touch lincoln.txt
+  128  touch frida.txt
+  129  touch notorious.txt
+  130  touch ray.txt
+  131  cd ..
+  132  ls
+  133  mkdir historical
+  134  cd historical 
+  135  touch gladiator.txt
+  136  touch selma.txt
+  137  clear
+  138  ls
+  139  cd ..
+  140  touch genres.txt
+  141  clear
+  142  tree
+  143  clear
+  144  cd ..
+  145  ls
+  146  clear
+  147  cd
+  148  cd Movies
+  149  ls
+  150  cd Action
+  151  ls
+  152  cat superman.txt
+  153  nano superman.txt
+  154  cat superman.txt
+  155  pwd
+  156  nano /home/kali/Movies/Comedy/satire/fight-cub.txt
+  157  cat /home/kali/Movies/Comedy/satire/fight-cub.txt
+  158  cd ..
+  159  cp /home/kali/Movies/Action/scifi/terminator.txt /home/kali/Movies/Drama/historical
+  160  pwd
+  161  ls /home/kali/Movies/Drama/historical
+  162  cd..
+  163  pwd
+  164  ls
+  165  cd ..
+  166  ls
