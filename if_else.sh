@@ -1,19 +1,18 @@
 #!/bin/bash
 
-echo "Its is raining?"
+#Print a message to the user "Is it raining"
+echo "It is raining?[Y/N]"
 
 #store the user input inside  of a variable named IS_RAIN
-read  IS_RAIN
+read -a IS_RAIN
 
 #Start the if-else block to check it it's raining or not
-
-
-if [ $IS_RAIN == "Y"|| [ $IS_RAIN =="y" ]
+if  [ $IS_RAIN == "Y" ] || [ $IS_RAIN =="y" ]
 then
   echo "Stay at home!"
-elif [ $IS_RAIN == "N" ] || [ $IS_RAIN == 'n' ]
+elif [ $IS_RAIN == "N" ] || [ $IS_RAIN == "n" ]
 then
   echo "Go out!"
 else
-  echo "Invalid outpu!"
+  echo "Invalid output!"
 fi
