@@ -1,0 +1,35 @@
+/bin/bash 
+#
+#This script creates a new user on the local system .
+#We will be prompted to enter the username and  password 
+
+
+#Get the username (login) 
+read -p "Enter the username to create:"  USER_NAME
+
+
+
+
+
+#Adding the user
+sudo useradd  ${USER_NAME}
+
+#Password has to be 8 characters long
+
+COUNT_CHAR=0
+
+while:  do
+  #Get the passwor      
+
+   read -p "Enter the password to use the account; "  PASSWORD
+    chrlen=${#PASSWORDr}  ;
+    if [ $chrlen -gt 7 ]; then
+    break;
+    fi
+
+sudo usermod -p ${PASSWORD} ${USERNAME}
+
+cat /etc/passwd
+
+
+fi
