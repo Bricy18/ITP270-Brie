@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Print a message to the user "Is it raining"
+#Print a message to the user "Is it raining?"
 echo "It is raining?[Y/N]"
 
 #store the user input inside  of a variable named IS_RAIN
