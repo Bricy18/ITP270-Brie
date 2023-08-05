@@ -56,6 +56,7 @@ echo ${USER_NAME}
 echo
 echo 'Full Name:'
 echo ${COMMENT} 
+#output should be 
  
 echo
 echo 'Password'
